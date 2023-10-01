@@ -14,8 +14,8 @@ Tracking Tasks - inFeedo
 
 1. **Clone the repository:**
    \`\`\`
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/infasoppty/task-management-infeedo.git
+   cd task-management-infeedo
    \`\`\`
 
 2. **Install Dependencies:**
