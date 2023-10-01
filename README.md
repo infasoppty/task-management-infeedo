@@ -27,7 +27,7 @@ Tracking Tasks - inFeedo
 
    - Ensure you have your database configured in \`.env\` file
    - Run Prisma migration to create database tables:
-     \`\`\`bash
+     \`\`\`
      npx prisma migrate dev
      \`\`\`
 
