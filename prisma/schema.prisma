@@ -15,5 +15,5 @@ model Task {
   openTasks       Int      @map("open_tasks")
   inprogressTasks Int      @map("inprogress_tasks")
   completedTasks  Int      @map("completed_tasks")
-  updatedAt       DateTime @default(now()) @map("updated_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
 }
